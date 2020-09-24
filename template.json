@@ -1,0 +1,14 @@
+{
+  "name": "typescript-webpack",
+  "repository": "https://github.com/tgm-templates/typescript-webpack",
+  "description": "TypeScript with webpack bundle tools",
+  "variables": [
+    {
+      "name": "appName",
+      "description": "App name"
+    }
+  ],
+  "files": [
+    "package.json"
+  ]
+}
